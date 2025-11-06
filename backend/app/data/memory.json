@@ -1,0 +1,19 @@
+{
+  "555194003224@s.whatsapp.net": {
+    "intencao": "compra",
+    "cidade": "Canoas",
+    "valor": "R$ 200.000.000",
+    "historico": [
+      {
+        "quem": "user",
+        "texto": "quero comprar uma casa em canoas até 200 mil",
+        "ts": "2025-11-06T19:18:20.092534"
+      },
+      {
+        "quem": "ia",
+        "texto": "Perfeito! Vou te ajudar com opções em Canoas dentro de R$ 200.000.000. Enquanto isso, prefere casa ou apartamento, ou está aberto(a) a sugestões?",
+        "ts": "2025-11-06T19:18:20.092938"
+      }
+    ]
+  }
+}

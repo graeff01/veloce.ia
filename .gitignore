@@ -1,0 +1,7 @@
+# Ignorar arquivos temporários e tokens do Venom
+backend/app/services/venom_instance/tokens/
+backend/app/services/baileys_instance/tokens/
+__pycache__/
+node_modules/
+.env
+*.log
